@@ -57,6 +57,6 @@ plt.show()
 for number in range(1, 1000):
     collatz(number)
     maiorValorInters = max(iters)
-print('Maior valor de iterações entre 1 e 1000 números é {}'.format(maiorValorInters))
+print('Maior valor de iterações entre 1 e 1000 números é {}\n'.format(maiorValorInters))
 
 #Fim de programa Tarefa1Modelos2.py
